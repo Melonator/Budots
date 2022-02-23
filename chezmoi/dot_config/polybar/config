@@ -28,11 +28,12 @@ offset-x = 0
 bottom = false 
 fixed-center = true
 
-modules-left = 
-modules-center = 
+modules-left = i3 
+modules-center = xwindow 
 modules-right = battery margin-bg margin-bg date margin-bg
 
 border-size = 12
+radius = 10
 border-color = ${colors.transparent}
 ;wm-restack = i3
 
